@@ -1,3 +1,8 @@
+# Additional Contributors
+* Noah Whelden - [Flarfo](https://github.com/flarfo)
+* Case Zumbrum - [CaseZumbrum](https://github.com/CaseZumbrum)
+* Justin Wang
+
 # GatorHacks
 Chat with Verizy, the newly proposed AI mascot for Verizon. Verizy can tell you about various Verizon products and provide recommendations to all customers. 
 Simply use the chatbox or the built in key-term selectors to tell Verizy what you are looking for, and Verizy will be sure to show you where to go!
